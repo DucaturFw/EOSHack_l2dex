@@ -1,5 +1,5 @@
-# l2dex
-l2dex: decentralized exchange with instant transactions and trustless deposits.
+# DEX — Level 2
+DEX — Level 2 : decentralized exchange with instant transactions and trustless deposits.
 
 Developed in 26 hours for EOS Hong Kong Hackathon.
 
